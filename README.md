@@ -1,4 +1,4 @@
-# KoBERT
+# KoBERT  https://complexoftaste.tistory.com/2
 
 * [KoBERT](#kobert)
   * [Korean BERT pre-trained cased (KoBERT)](#korean-bert-pre-trained-cased-kobert)
